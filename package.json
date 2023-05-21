@@ -4,6 +4,8 @@
   "description": "The automation challenge for Jobsity, we have to automate Ordern and Return a module of the Website Magento Software Testing Board",
   "main": "index.js",
   "scripts": {
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox",
     "cy:run": "cypress run"
   },
   "keywords": [],
@@ -11,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "12.12.0"
+  },
+  "dependencies": {
+    "concurrently": "^8.0.1"
   }
 }
