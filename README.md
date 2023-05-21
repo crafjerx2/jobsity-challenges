@@ -9,13 +9,11 @@ The automation challenge for Jobsity, we have to automate Ordern and Return a mo
   <li>Open Command line or powershell o terminal</li>
   <li>run the command: npm install - you have to be installed Node and NPM</li>
   <li>After you have to run: npm run cy:run </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+</ul>
 
+<h3>Tools</h3>
 <ul>
-
-<h3>Tools<h3>
+  <li>Cypress</li>
+  <li>Node</li>
+  <li>NPM</li>
+</ul>
