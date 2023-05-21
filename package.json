@@ -1,0 +1,15 @@
+{
+  "name": "magento-software-testing-board",
+  "version": "1.0.0",
+  "description": "The automation challenge for Jobsity, we have to automate Ordern and Return a module of the Website Magento Software Testing Board",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "Carlos Pineda",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "12.12.0"
+  }
+}
